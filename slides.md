@@ -5,7 +5,7 @@
 # CoffeeScript
 
 ## Andy Waite
-## April 24, 2013
+### April 24, 2013
 
 !SLIDE
 
@@ -16,6 +16,11 @@
 * Pros and Cons
 * Should NOTHS use CoffeeScript?
 * Further Learning
+
+!SLIDE
+
+* Created in 2009 by Jeremy Ashkenas (Backbone, Underscore)
+* Originally written in Ruby, now written in CoffeeScript(!)
 
 !SLIDE
 
@@ -54,17 +59,7 @@ Brendan Eich
 * Implicit Return
 * Classes
 * Whitespace
-* Shorthand (anon function, @)
-
-!SLIDE
-
-# Downsides
-
-* Context switching
-* Bends JS to classic OO rather than prototypical inheritance
-* Can't fix everything wrong with JavaScript
-* Debugging can be awkward (but now have sourcemaps)
-* Still need to understand JS's quirks
+* Shorthand
 
 !SLIDE
 
@@ -75,6 +70,16 @@ Brendan Eich
 * Can be used alongside any other JS libraries
 * Works server-side, e.g. with Node
 * Works with any MV* framework (Ember, Backbone, etc.)
+
+!SLIDE
+
+# Downsides
+
+* Context switching
+* Promotes classic OO over prototypical inheritance?
+* Can't fix everything wrong with JavaScript
+* Debugging can be awkward (but now has sourcemaps)
+* Still need to understand JS's quirks
 
 !SLIDE
 
